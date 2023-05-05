@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
-        "packagesPath": "C:\\Users\\camilacy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camilacy\\MyWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
+        "packagesPath": "C:\\Users\\Fozi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\camilacy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Fozi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
