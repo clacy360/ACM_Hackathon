@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\camilacy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camilacy\\MyWebApp\\obj\\",
+        "outputPath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camilacy\\AppData\\Roaming\\NuGet\\NuGet.Config"
