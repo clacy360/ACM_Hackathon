@@ -55,7 +55,7 @@ button.accept-policy {
   line-height: 30px;
 }
 
-.ContactUs {
+.ContactUsContainer {
   margin: 0;
   display: flex;
   align-items: center;
@@ -79,7 +79,7 @@ a:link {
 
 .Socials a:hover {
   color: black;
-} 
+}
 
 a:visited {
   color: white;
