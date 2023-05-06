@@ -8,6 +8,11 @@ a.navbar-brand[b-529uds4zl5] {
   word-break: break-all;
 }
 
+.UWBLogo[b-529uds4zl5] {
+  height: 60px;
+  margin-left: 20px;
+}
+
 a[b-529uds4zl5] {
   color: #0077cc;
 }
@@ -70,15 +75,13 @@ a:link[b-529uds4zl5] {
   color: white;
   font-size: 20px;
   text-decoration: none;
+  transition: all 0.2s linear;
 }
+
+.Socials a:hover[b-529uds4zl5] {
+  color: black;
+} 
 
 a:visited[b-529uds4zl5] {
   color: white;
-}
-
-.fa-solid.fa-house[b-529uds4zl5],
-.fa-brands.fa-linkedin[b-529uds4zl5],
-.fa-brands.fa-square-github[b-529uds4zl5],
-.fa-solid.fa-envelope[b-529uds4zl5] {
-  font-size: 20px;
 }

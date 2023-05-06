@@ -7,6 +7,11 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+.UWBLogo {
+  height: 60px;
+  margin-left: 20px;
+}
+
 a {
   color: #0077cc;
 }
@@ -69,15 +74,13 @@ a:link {
   color: white;
   font-size: 20px;
   text-decoration: none;
+  transition: all 0.2s linear;
 }
+
+.Socials a:hover {
+  color: black;
+} 
 
 a:visited {
   color: white;
-}
-
-.fa-solid.fa-house,
-.fa-brands.fa-linkedin,
-.fa-brands.fa-square-github,
-.fa-solid.fa-envelope {
-  font-size: 20px;
 }
