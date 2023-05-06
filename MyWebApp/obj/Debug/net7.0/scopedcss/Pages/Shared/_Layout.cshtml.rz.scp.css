@@ -17,7 +17,12 @@ a[b-tdy2x9681t] {
   border-color: #1861ac;
 }
 
+<<<<<<< HEAD
 .nav-pills .nav-link.active[b-tdy2x9681t], .nav-pills .show > .nav-link[b-tdy2x9681t] {
+=======
+.nav-pills .nav-link.active[b-529uds4zl5],
+.nav-pills .show>.nav-link[b-529uds4zl5] {
+>>>>>>> origin/main
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
@@ -26,7 +31,12 @@ a[b-tdy2x9681t] {
 .border-top[b-tdy2x9681t] {
   border-top: 1px solid #e5e5e5;
 }
+<<<<<<< HEAD
 .border-bottom[b-tdy2x9681t] {
+=======
+
+.border-bottom[b-529uds4zl5] {
+>>>>>>> origin/main
   border-bottom: 1px solid #e5e5e5;
 }
 
@@ -39,10 +49,47 @@ button.accept-policy[b-tdy2x9681t] {
   line-height: inherit;
 }
 
+<<<<<<< HEAD
 .footer[b-tdy2x9681t] {
+=======
+.footer[b-529uds4zl5] {
+  background-color: rgb(75, 46, 131);
+>>>>>>> origin/main
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px;
+  line-height: 30px;
+}
+
+.ContactUs[b-529uds4zl5] {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}
+
+.Socials[b-529uds4zl5] {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+a:link[b-529uds4zl5] {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:visited[b-529uds4zl5] {
+  color: white;
+}
+
+.fa-solid.fa-house[b-529uds4zl5],
+.fa-brands.fa-linkedin[b-529uds4zl5],
+.fa-brands.fa-square-github[b-529uds4zl5],
+.fa-solid.fa-envelope[b-529uds4zl5] {
+  font-size: 20px;
 }
