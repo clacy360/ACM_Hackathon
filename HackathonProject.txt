@@ -7,4 +7,29 @@ Sithartha Phengsavanh
 Foziya Reshid
 Yamileth Camacho
 
-Theme: Entertainment
+Theme: In-Person Entertainment
+
+Idea: The current UWB Events website does not differentiate events between faculty and students.
+      This makes it difficult to reach both student and staff through independent channels.
+      Our goal was to create a separate site that focused soley on upcoming student events.
+
+Project Goals:
+1) Use Figma to generate website UI
+2) Implement website through VSCode
+3) Divide Website 
+
+Desired User Experience:
+1) User navigates to UWB main website
+2) UWB main website links to Events page to view featured and upcoming events
+
+Implementation Details:
+1) Download ASP.NET SDK files to run through "dotnet watch" command
+2) Shared GitHub Repository to implement features
+3) Divided work of 5 main pages between 5 members
+
+Future Work:
+1) Integrate UWB calendar student events to to connect to front-end interface
+2) Additional searching/filtering features 
+3) Set up daily/weekly email reminders
+4) Host website on server with loadable link
+5) Maintainable code through GitHub(potential errors presently)
