@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "Wl97FqjpdGVoKFYgrrj2JUyvBEkvcQivwGA0qFZkV3SI9F6Bec50Qk3GySbKm425wC1qOYXuiFCx7m38BY5nrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
+=======
   "dgSpecHash": "GHoCMh4DSQvK0kj375W6DtBmob8HDUc2kGR4DXdBtOFRnWGtlJK2HU7YayVQOSJvzyutCCCkhCRmOexEqHtZ6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
+>>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
   "expectedPackageFiles": [],
   "logs": []
 }
