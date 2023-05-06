@@ -1,35 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj": {}
-  },
-  "projects": {
-    "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj",
-        "projectName": "MyWebApp",
-        "projectPath": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj",
-        "packagesPath": "/Users/yami/.nuget/packages/",
-        "outputPath": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/yami/.nuget/NuGet/NuGet.Config"
-=======
-<<<<<<< HEAD
-    "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
-        "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
-        "packagesPath": "C:\\Users\\Fozi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\obj\\",
-=======
     "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
@@ -41,11 +12,9 @@
         "projectPath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\camilacy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\obj\\",
->>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fozi\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> origin/main
+          "C:\\Users\\camilacy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -87,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
