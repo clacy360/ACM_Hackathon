@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\camilacy\\.nuget\\packages\\": {}
+    "C:\\Users\\sitha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\sitha\\OneDrive\\hackathon2023\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\camilacy\\MyWebApp\\MyWebApp.csproj",
-      "packagesPath": "C:\\Users\\camilacy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camilacy\\MyWebApp\\obj\\",
+      "projectPath": "C:\\Users\\sitha\\OneDrive\\hackathon2023\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
+      "packagesPath": "C:\\Users\\sitha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sitha\\OneDrive\\hackathon2023\\clacy360.github.io\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\camilacy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sitha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
