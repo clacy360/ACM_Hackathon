@@ -1,3 +1,67 @@
+<<<<<<< HEAD
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/appsettings.json
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.staticwebassets.runtime.json
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.exe
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.deps.json
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.runtimeconfig.json
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.dll
+C:/Users/camilacy/MyWebApp/bin/Debug/net7.0/MyWebApp.pdb
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.AssemblyReference.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.AssemblyInfoInputs.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.AssemblyInfo.cs
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.CoreCompileInputs.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.RazorAssemblyInfo.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.RazorAssemblyInfo.cs
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MyWebApp.props
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MyWebApp.props
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MyWebApp.props
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/scopedcss/bundle/MyWebApp.styles.css
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/scopedcss/projectbundle/MyWebApp.bundle.scp.css
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.dll
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/refint/MyWebApp.dll
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.pdb
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/MyWebApp.genruntimeconfig.cache
+C:/Users/camilacy/MyWebApp/obj/Debug/net7.0/ref/MyWebApp.dll
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/appsettings.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp.staticwebassets.runtime.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp.deps.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp.runtimeconfig.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp.dll
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/bin/Debug/net7.0/MyWebApp.pdb
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.AssemblyReference.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.AssemblyInfoInputs.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.AssemblyInfo.cs
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.CoreCompileInputs.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.RazorAssemblyInfo.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.RazorAssemblyInfo.cs
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MyWebApp.props
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MyWebApp.props
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MyWebApp.props
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/bundle/MyWebApp.styles.css
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/projectbundle/MyWebApp.bundle.scp.css
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.dll
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/refint/MyWebApp.dll
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.pdb
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/MyWebApp.genruntimeconfig.cache
+/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/ref/MyWebApp.dll
+=======
 C:\Users\camilacy\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\camilacy\MyWebApp\bin\Debug\net7.0\appsettings.json
 C:\Users\camilacy\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
@@ -29,6 +93,39 @@ C:\Users\camilacy\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
 C:\Users\camilacy\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
 C:\Users\camilacy\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
 C:\Users\camilacy\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+<<<<<<< HEAD
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.exe
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.deps.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.dll
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\bin\Debug\net7.0\MyWebApp.pdb
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApp.props
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.dll
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
+C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+=======
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\bin\Debug\net7.0\appsettings.json
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
@@ -60,3 +157,5 @@ C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\obj
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
 C:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+>>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
