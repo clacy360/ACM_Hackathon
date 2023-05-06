@@ -18645,6 +18645,11 @@
   "RootNamespace": "MyWebApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\FirstEvent.cshtml",
+      "TargetPath": "Pages\\FirstEvent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -18665,8 +18670,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\TodayEvent.cshtml",
+      "TargetPath": "Pages\\TodayEvent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\SecondEvent.cshtml",
+      "TargetPath": "Pages\\SecondEvent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\camilacy\\MyWebApp\\Pages\\MonthlyEvents.cshtml",
+      "TargetPath": "Pages\\MonthlyEvents.cshtml",
       "FileKind": "mvc"
     },
     {

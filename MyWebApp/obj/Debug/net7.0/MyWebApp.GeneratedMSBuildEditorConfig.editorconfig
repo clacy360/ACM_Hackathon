@@ -20,16 +20,32 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/FirstEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/MonthlyEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9udGhseUV2ZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/SecondEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/TodayEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kYXlFdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/_ViewImports.cshtml]
