@@ -1,10 +1,14 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "Hash": "gBnT2p57hH4kdFFOHb/c+aYJFdmH73xatJm+DOwYT4g=",
+=======
+<<<<<<< HEAD
   "Hash": "KTcrVcNhKSq5/iI8CpwpTE/k+L1jNYhIjSTEomCgeCA=",
 =======
   "Hash": "al1SDtAfRBcb6JEbEoq5vEPBynvHV4+a3SLqZknVCVU=",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
@@ -12,19 +16,29 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MyWebApp\\wwwroot",
+      "Name": "MyWebApp/wwwroot",
       "Source": "MyWebApp",
+<<<<<<< HEAD
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\",
 =======
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/bundle/MyWebApp.styles.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/bundle/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWebApp.styles.css",
       "SourceId": "MyWebApp",
@@ -36,6 +50,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "MyWebApp.styles.css",
       "AssetKind": "All",
@@ -46,6 +61,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/bundle/MyWebApp.styles.css"
+    },
+    {
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/projectbundle/MyWebApp.bundle.scp.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/projectbundle/",
+=======
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWebApp.styles.css"
     },
@@ -63,6 +87,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "MyWebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -73,6 +98,15 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/Debug/net7.0/scopedcss/projectbundle/MyWebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/css/site.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWebApp.bundle.scp.css"
     },
@@ -90,6 +124,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -100,9 +135,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/favicon.ico",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\favicon.ico",
       "SourceId": "MyWebApp",
@@ -114,6 +155,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -124,9 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/js/site.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\js\\site.js",
       "SourceId": "MyWebApp",
@@ -138,6 +186,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -148,9 +197,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MyWebApp",
@@ -162,6 +217,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -172,9 +228,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MyWebApp",
@@ -186,6 +248,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -196,9 +259,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MyWebApp",
@@ -210,6 +279,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -220,9 +290,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MyWebApp",
@@ -234,6 +310,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -244,9 +321,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MyWebApp",
@@ -258,6 +341,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -268,9 +352,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MyWebApp",
@@ -282,6 +372,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -292,9 +383,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MyWebApp",
@@ -306,6 +403,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -316,9 +414,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyWebApp",
@@ -330,6 +434,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -340,9 +445,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MyWebApp",
@@ -354,6 +465,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -364,9 +476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MyWebApp",
@@ -378,6 +496,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -388,9 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MyWebApp",
@@ -402,6 +527,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -412,9 +538,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MyWebApp",
@@ -426,6 +558,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -436,9 +569,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MyWebApp",
@@ -450,6 +589,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -460,9 +600,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MyWebApp",
@@ -474,6 +620,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -484,9 +631,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MyWebApp",
@@ -498,6 +651,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -508,9 +662,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyWebApp",
@@ -522,6 +682,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -532,9 +693,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MyWebApp",
@@ -546,6 +713,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -556,9 +724,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MyWebApp",
@@ -570,6 +744,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -580,9 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MyWebApp",
@@ -594,6 +775,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -604,9 +786,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MyWebApp",
@@ -618,6 +806,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -628,9 +817,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MyWebApp",
@@ -642,6 +837,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -652,9 +848,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MyWebApp",
@@ -666,6 +868,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -676,9 +879,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MyWebApp",
@@ -690,6 +899,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -700,9 +910,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyWebApp",
@@ -714,6 +930,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -724,9 +941,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MyWebApp",
@@ -738,6 +961,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -748,9 +972,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MyWebApp",
@@ -762,6 +992,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -772,9 +1003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MyWebApp",
@@ -786,6 +1023,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -796,9 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MyWebApp",
@@ -810,6 +1054,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -820,9 +1065,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MyWebApp",
@@ -834,6 +1085,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -844,9 +1096,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MyWebApp",
@@ -858,6 +1116,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -868,9 +1127,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MyWebApp",
@@ -882,6 +1147,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -892,9 +1158,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MyWebApp",
@@ -906,6 +1178,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -916,9 +1189,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MyWebApp",
@@ -930,6 +1209,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -940,9 +1220,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MyWebApp",
@@ -954,6 +1240,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -964,9 +1251,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MyWebApp",
@@ -978,6 +1271,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -988,9 +1282,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MyWebApp",
@@ -1002,6 +1302,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1012,9 +1313,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MyWebApp",
@@ -1026,6 +1333,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1036,9 +1344,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MyWebApp",
@@ -1050,6 +1364,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1060,9 +1375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MyWebApp",
@@ -1074,6 +1395,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1084,9 +1406,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MyWebApp",
@@ -1098,6 +1426,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1108,9 +1437,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MyWebApp",
@@ -1122,6 +1457,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1132,9 +1468,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MyWebApp",
@@ -1146,6 +1488,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1156,9 +1499,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MyWebApp",
@@ -1170,6 +1519,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1180,9 +1530,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MyWebApp",
@@ -1194,6 +1550,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1204,9 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/bootstrap/LICENSE",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MyWebApp",
@@ -1218,6 +1581,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1228,9 +1592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MyWebApp",
@@ -1242,6 +1612,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1252,9 +1623,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MyWebApp",
@@ -1266,6 +1643,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1276,9 +1654,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MyWebApp",
@@ -1290,6 +1674,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1300,9 +1685,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MyWebApp",
@@ -1314,6 +1705,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1324,9 +1716,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MyWebApp",
@@ -1338,6 +1736,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1348,9 +1747,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MyWebApp",
@@ -1362,6 +1767,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1372,9 +1778,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MyWebApp",
@@ -1386,6 +1798,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1396,9 +1809,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MyWebApp",
@@ -1410,6 +1829,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1420,9 +1840,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MyWebApp",
@@ -1434,6 +1860,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1444,9 +1871,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MyWebApp",
@@ -1458,6 +1891,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1468,9 +1902,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MyWebApp",
@@ -1482,6 +1922,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1492,9 +1933,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/wwwroot/",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MyWebApp",
@@ -1506,6 +1953,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\wwwroot\\",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
       "BasePath": "_content/MyWebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1516,7 +1964,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     }
   ]
 }

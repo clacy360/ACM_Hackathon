@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "U7/bbOr6yafzp7JwHk4MVrnTq59vQxneTYT5hQ824eil7UW9nqgCALeUYuDb/IubmBygbMXs7xcCWDxjLLamKw==",
+  "success": true,
+  "projectFilePath": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "Wl97FqjpdGVoKFYgrrj2JUyvBEkvcQivwGA0qFZkV3SI9F6Bec50Qk3GySbKm425wC1qOYXuiFCx7m38BY5nrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj",
@@ -9,6 +14,7 @@
   "success": true,
   "projectFilePath": "C:\\Users\\camilacy\\OneDrive - UW\\Documents\\GitHub\\clacy360.github.io\\MyWebApp\\MyWebApp.csproj",
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
+>>>>>>> origin/main
   "expectedPackageFiles": [],
   "logs": []
 }

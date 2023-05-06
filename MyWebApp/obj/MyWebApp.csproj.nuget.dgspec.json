@@ -2,6 +2,22 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj",
+        "projectName": "MyWebApp",
+        "projectPath": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/MyWebApp.csproj",
+        "packagesPath": "/Users/yami/.nuget/packages/",
+        "outputPath": "/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yami/.nuget/NuGet/NuGet.Config"
+=======
+<<<<<<< HEAD
     "C:\\Users\\Fozi\\Documents\\GitHub\\ACM_Hackathon\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
@@ -29,6 +45,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fozi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> origin/main
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -70,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

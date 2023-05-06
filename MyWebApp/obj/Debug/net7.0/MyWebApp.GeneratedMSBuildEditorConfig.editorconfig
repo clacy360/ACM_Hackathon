@@ -10,6 +10,58 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyWebApp
 build_property.RootNamespace = MyWebApp
 <<<<<<< HEAD
+build_property.ProjectDir = /Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/FirstEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlyc3RFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/MonthlyEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9udGhseUV2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/SecondEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2Vjb25kRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/TodayEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kYXlFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yami/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tdy2x9681t
+=======
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
@@ -110,3 +162,4 @@ build_metadata.AdditionalFiles.CssScope =
 >>>>>>> 0cedf2aa28adfe73283adde6d054e15091acea59
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-529uds4zl5
+>>>>>>> origin/main
