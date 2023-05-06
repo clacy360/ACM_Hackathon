@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MyWebApp.styles.css" asp-append-version="true" />
+    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <header> 
@@ -50,11 +51,36 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+ <footer class="border-top footer text-muted">
+
         <div class="container">
-            &copy; 2023 - Husky Hacks - <a asp-area="" asp-page="/Privacy">Contact Us</a>
+
+            <div class = "Container">
+
+                <p class = "ContactUs" >Contact Us</p>
+
+                <div class = "Socials">
+
+                    <a href = "https://www.instagram.com/uw_bothell/?hl=en" target="_blank"> <i class="fa-brands fa-instagram"></i> Instagram</a>
+
+                    <a href = "https://twitter.com/UWBothell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> <i class="fa-brands fa-twitter"></i> Twitter</a>
+
+                    <a href = "https://discord.gg/ajJppw2U" target="_blank"> <i class="fa-brands fa-discord" ></i> Discord</a>
+
+                    <a href = "https://github.com/clacy360/clacy360.github.io" target = "_blank"> <i class="fa-brands fa-square-github"></i> GitHub</a>
+
+                    <a href = "mailto:uwbcebch@uw.edu?subject=Host an Event&body=Hi there," > <i class="fa-solid fa-envelope"></i> Gmail</a>
+
+                </div>
+
+            </div>
+
         </div>
+
+        &copy; 2023 - MyWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+
     </footer>
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
