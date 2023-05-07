@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyWebApp
 build_property.RootNamespace = MyWebApp
-build_property.ProjectDir = c:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp\
+build_property.ProjectDir = C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\camilacy\OneDrive - UW\Documents\GitHub\clacy360.github.io\MyWebApp
+build_property.MSBuildProjectDirectory = C:\Users\Fozi\Documents\GitHub\ACM_Hackathon\MyWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/Errors/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JzXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/FirstEvent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RFdmVudC5jc2h0bWw=
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/FirstEvent/FirstEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RFdmVudFxGaXJzdEV2ZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/LandingPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZGluZ1BhZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/MonthlyEvents.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9udGhseUV2ZW50cy5jc2h0bWw=
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/MonthlyEvents/MonthlyEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9udGhseUV2ZW50c1xNb250aGx5RXZlbnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/Privacy/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/SecondEvent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kRXZlbnQuY3NodG1s
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/SecondEvent/SecondEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kRXZlbnRcU2Vjb25kRXZlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/SharedLayout/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkTGF5b3V0XF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/TodayEvent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kYXlFdmVudC5jc2h0bWw=
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/TodaysEvents/TodayEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kYXlzRXZlbnRzXFRvZGF5RXZlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/_ViewImports.cshtml]
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/_ViewStart.cshtml]
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/camilacy/OneDrive - UW/Documents/GitHub/clacy360.github.io/MyWebApp/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-529uds4zl5
+[C:/Users/Fozi/Documents/GitHub/ACM_Hackathon/MyWebApp/Pages/SharedLayout/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkTGF5b3V0XF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-agv6t3hpmv
