@@ -74,12 +74,12 @@ a:link[b-529uds4zl5] {
   color: white;
   font-size: 20px;
   text-decoration: none;
-  transition: all 0.2s linear;
+  transition: all 0.15s linear;
 }
 
 .Socials a:hover[b-529uds4zl5] {
   color: black;
-} 
+}
 
 a:visited[b-529uds4zl5] {
   color: white;
